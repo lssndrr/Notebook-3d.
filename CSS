@@ -1,0 +1,275 @@
+body{
+    width:300px;
+    height:400px;
+    background-color:#eee999;
+}
+
+.b{
+    width:280px;
+    height:2px;
+    margin-top:-405px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+
+.c{
+    width:280px;
+    height:2px;
+    margin-top:-390px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.d{
+    width:280px;
+    height:2px;
+    margin-top:-375px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.f{
+    width:280px;
+    height:2px;
+    margin-top:-360px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.g{
+    width:280px;
+    height:2px;
+    margin-top:-345px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.h{
+    width:280px;
+    height:2px;
+    margin-top:-330px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.i{
+    width:280px;
+    height:2px;
+    margin-top:-315px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.j{
+    width:280px;
+    height:2px;
+    margin-top:-300px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.k{
+    width:280px;
+    height:2px;
+    margin-top:-285px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.l{
+    width:280px;
+    height:2px;
+    margin-top:-270px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+
+.m{
+    width:280px;
+    height:2px;
+    margin-top:-255px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+
+.n{
+    width:280px;
+    height:2px;
+    margin-top:-240px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.o{
+    width:280px;
+    height:2px;
+    margin-top:-225px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.p{
+    width:280px;
+    height:2px;
+    margin-top:-210px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.q{
+    width:280px;
+    height:2px;
+    margin-top:-195px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.u{
+    width:280px;
+    height:2px;
+    margin-top:-180px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.v{
+    width:280px;
+    height:2px;
+    margin-top:-165px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.w{
+    width:280px;
+    height:2px;
+    margin-top:-150px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.x{
+    width:280px;
+    height:2px;
+    margin-top:-135px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.y{
+    width:280px;
+    height:2px;
+    margin-top:-120px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.z{
+    width:280px;
+    height:2px;
+    margin-top:-105px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.aa{
+    width:280px;
+    height:2px;
+    margin-top:-90px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.ab{
+    width:280px;
+    height:2px;
+    margin-top:-75px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.ac{
+    width:280px;
+    height:2px;
+    margin-top:-60px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.ad{
+    width:280px;
+    height:2px;
+    margin-top:-45px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+.ae{
+    width:280px;
+    height:2px;
+    margin-top:-30px;
+    margin-left:10px;
+    background-color:black;
+    position:absolute;
+}
+
+
+
+
+
+
+
+
+
+  
+textarea{
+    overflow: hidden; 
+    word-wrap: break-word; 
+    resize: none; 
+    height: 400px;
+    width:280px;
+    border:20px;
+    margin-top:10px;
+    margin-left:10px;
+    box-shadow:0px 0px 2px 2px gray;
+    font-family:Courier, monospace;
+     font-weight:normal;
+     font-size:small ;
+     font-family: Helvetica, Arial, sans-serif;
+     color:blue;
+}
+input{
+    color:red;
+}
+h1{
+    color:#394693;
+    margin-left:20px;
+    box-shadow:0px 5px 5px 0px gray;
+    border:0px;
+    text-align:center ;
+    width:250px;
+    background:#6aa776;
+    
+}
+
+.aabb{
+    width:210px;
+    height:20px;
+    border-radius:40%;
+    background:#eee999;
+    margin-left:40px;
+    margin-top:-20px;
+    position:absolute ;
+}
+.aaa{
+   margin-left:40px;
+   margin-top:15px;
+    
+}
+
+.a{
+    margin-left:250px;
+}
